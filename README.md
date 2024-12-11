@@ -7,26 +7,38 @@
  Power BI project designed to provide actionable insights into sales data. The interactive dashboard helps stakeholders analyze performance metrics, identify trends, and make informed decisions.
 
 ## Features
- Sales Performance: Overview of sales across various regions, products, and time periods.
- Trend Analysis: Identifies sales trends to help predict future performance.
- Key Metrics: Highlights important metrics such as revenue, profit margins, and growth rates.
- Interactive Visualizations: Explore data through dynamic and user-friendly charts and graphs.
+ **Sales Performance:** Overview of sales across various regions, products, and time periods.
+ 
+ **Trend Analysis:** Identifies sales trends to help predict future performance.
+ 
+ **Key Metrics:** Highlights important metrics such as revenue, profit margins, and growth rates.
+ 
+ **Interactive Visualizations:** Explore data through dynamic and user-friendly charts and graphs.
 
 ## Dataset
 The dashboard uses sales data, including the following attributes:
 
-Product categories
-Regional sales
-Monthly or yearly performance
-Profit margins
-How to Use
+1.Product categories
+
+2.Regional sales
+
+3.Monthly or yearly performance
+
+4.Profit margins
+
+## How to Use
 Download the final project.pbix file from this repository.
+
 Open the file in Power BI Desktop.
+
 Explore the dashboard by interacting with filters and visualizations to gain insights tailored to your needs.
-Prerequisites
+
+## Prerequisites
 Power BI Desktop (latest version)
+
 Basic understanding of sales data and analytics
-Contributing
+
+## Contributing
 Contributions are welcome! If you'd like to enhance the dashboard or provide additional features, feel free to fork the repository and submit a pull request.
 
 ## License
